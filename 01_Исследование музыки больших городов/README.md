@@ -1,5 +1,7 @@
 # Проект: Музыка больших городов 
 
+[ipynb](https://github.com/VeraNovich/Yandex.Praktikum_DA_projects/blob/main/01_Исследование%20музыки%20больших%20городов/01_music_of_big_cities.ipynb)
+
 ## Цель проекта
 Сравнить музыкальные предпочтения пользователей Москвы и Санкт-Петербурга 
 
