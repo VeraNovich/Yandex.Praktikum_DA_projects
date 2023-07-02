@@ -28,3 +28,6 @@
 * Plotly
 * exploratory data analysis (EDA)
 * визуализация данных
+
+## Статус проекта
+Выполнен.
