@@ -28,3 +28,6 @@
 * Seaborn
 * exploratory data analysis (EDA)
 * анализ бизнес показателей 
+
+## Статус проекта
+Выполнен.
