@@ -18,3 +18,5 @@
 * PostgreSQL 
 * DML (Data Manipulation Language) запросы (конструкция SELECT)
 
+## Статус проекта
+Выполнен.
