@@ -21,3 +21,5 @@ data-analyst-final-project-db
 * Pandas
 * SQL запросы.
 
+## Статус проекта
+Выполнен.
